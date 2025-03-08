@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Kunjungi Blog Kami
         altText: ''
         url: /
         showIcon: true
