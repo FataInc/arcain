@@ -1,6 +1,6 @@
 ---
 title: 'Chatbot: Revolusi Interaksi Digital dengan Kecerdasan Buatan'
-slug: case-study-1
+slug: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan
 date: '2025-03-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
