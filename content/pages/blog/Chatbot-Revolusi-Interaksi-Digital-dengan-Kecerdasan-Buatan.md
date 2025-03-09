@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan.jpg
-  altText: Case study 1
+  altText: Chatbot
   styles:
     self:
       borderRadius: large
