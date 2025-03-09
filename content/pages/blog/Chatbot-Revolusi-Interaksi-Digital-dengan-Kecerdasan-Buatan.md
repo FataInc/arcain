@@ -98,6 +98,7 @@ seo:
     dapat digunakan dalam berbagai platform seperti situs web, aplikasi pesan,
     dan media sosial untuk membantu pengguna menyelesaikan tugas, menjawab
     pertanyaan, atau memberikan layanan pelanggan.
+  addTitleSuffix: true
 ---
 <div style="text-align: center">![](https://deriota.com/img/20230509114310-2023-05-09news114304.png)*Sumber gambar :* deriota.com</div>
 
