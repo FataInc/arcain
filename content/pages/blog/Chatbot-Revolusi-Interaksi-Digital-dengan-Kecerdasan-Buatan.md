@@ -1,6 +1,6 @@
 ---
 title: 'Chatbot: Revolusi Interaksi Digital dengan Kecerdasan Buatan'
-slug: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan
+slug: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan-Buatan
 date: '2025-03-09'
 excerpt: >-
   Apa Itu Chatbot? Chatbot adalah program berbasis kecerdasan buatan (AI) yang
@@ -15,7 +15,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
-  elementId: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan
+  elementId: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan-Buatan
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
