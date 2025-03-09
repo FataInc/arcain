@@ -101,6 +101,7 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      property: 'og:image'
 ---
 <div style="text-align: center">![](https://deriota.com/img/20230509114310-2023-05-09news114304.png)*Sumber gambar :* deriota.com</div>
 
