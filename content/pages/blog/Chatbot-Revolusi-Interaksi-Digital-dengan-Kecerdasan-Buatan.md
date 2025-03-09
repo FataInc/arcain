@@ -92,6 +92,12 @@ isDraft: true
 seo:
   type: Seo
   metaTitle: 'Chatbot: Revolusi Interaksi Digital dengan Kecerdasan Buatan'
+  metaDescription: >-
+    Apa Itu Chatbot? Chatbot adalah program berbasis kecerdasan buatan (AI) yang
+    dirancang untuk mensimulasikan percakapan manusia secara otomatis. Chatbot
+    dapat digunakan dalam berbagai platform seperti situs web, aplikasi pesan,
+    dan media sosial untuk membantu pengguna menyelesaikan tugas, menjawab
+    pertanyaan, atau memberikan layanan pelanggan.
 ---
 <div style="text-align: center">![](https://deriota.com/img/20230509114310-2023-05-09news114304.png)*Sumber gambar :* deriota.com</div>
 
