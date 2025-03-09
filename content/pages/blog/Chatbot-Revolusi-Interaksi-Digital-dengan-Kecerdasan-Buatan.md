@@ -14,6 +14,7 @@ featuredImage:
     self:
       borderRadius: large
   type: ImageBlock
+  elementId: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
