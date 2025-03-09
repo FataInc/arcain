@@ -3,10 +3,11 @@ title: 'Chatbot: Revolusi Interaksi Digital dengan Kecerdasan Buatan'
 slug: Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan
 date: '2025-03-09'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Apa Itu Chatbot? Chatbot adalah program berbasis kecerdasan buatan (AI) yang
+  dirancang untuk mensimulasikan percakapan manusia secara otomatis. Chatbot
+  dapat digunakan dalam berbagai platform seperti situs web, aplikasi pesan, dan
+  media sosial untuk membantu pengguna menyelesaikan tugas, menjawab pertanyaan,
+  atau memberikan layanan pelanggan.
 featuredImage:
   url: /images/Chatbot-Revolusi-Interaksi-Digital-dengan-Kecerdasan Buatan.jpg
   altText: Chatbot
